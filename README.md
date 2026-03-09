@@ -3,6 +3,9 @@
 Scrapes hike data from [Washington Trails Association](https://www.wta.org) and stores it in a filterable Java `HikeRepository`.
 
 I did not make this it was made by Claude.ai chat link: (https://claude.ai/share/c764f005-12d4-4458-be30-8b6c50b62201)
+
+For isntlation and usage use The Washington Trail Assosation Scraper Manual.
+
 ## Data Collected Per Hike
 
 | Field | Type | Example |
